@@ -1,12 +1,12 @@
 [readme.md](https://github.com/user-attachments/files/21855905/readme.md)
 
-# Predicción de Churn en Telecomunicaciones
+# Predicción de Churn en Telecomunicaciones.
 
 Este repositorio contiene un análisis completo sobre cancelación de clientes (churn) en una empresa de telecomunicaciones, utilizando diferentes modelos de Machine Learning para identificar los factores que más influyen en la fuga de clientes y proponer estrategias de retención.  
 
-## Contenido del repositorio
+## Contenido del repositorio:
 
-- **`Telecom_part2.ipynb`** → Cuadernillo principal con:  
+- **`Telecom_part2.ipynb`**: Cuadernillo principal con:  
   - Exploración de datos y correlaciones con churn.  
   - Preparación y reducción de variables relevantes.  
   - Entrenamiento y evaluación de distintos modelos de clasificación (Random Forest, KNN, entre otros).  
@@ -14,8 +14,8 @@ Este repositorio contiene un análisis completo sobre cancelación de clientes (
   - Identificación de las variables más influyentes en la cancelación.  
   - Conclusiones y estrategias de negocio para retención de clientes.  
 
-- **README.md** → Documento explicativo (este archivo).  
-
+- **README.md**: Documento explicativo (este archivo).  
+-**datos_tratados.csv**: Cuadernillo con los datos de los clientes que es cargado en el principal.
 ## Modelos utilizados
 
 - **Random Forest Classifier**  
