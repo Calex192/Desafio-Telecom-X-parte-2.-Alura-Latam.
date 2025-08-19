@@ -54,4 +54,4 @@ Este repositorio contiene un análisis completo sobre cancelación de clientes (
 
 ## Autor
 
-Proyecto desarrollado como práctica de análisis predictivo aplicado a churn en telecomunicaciones.  
+Proyecto desarrollado por Cristofher León Godoy como práctica de análisis predictivo aplicado a churn en telecomunicaciones.  
